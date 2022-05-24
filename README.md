@@ -12,7 +12,7 @@ python setup.py install
 
 <2>
 
-python tools/demo_online_2xml.py image -f exps/example/custom/yolox_s_custom_wsw.py -c your-weight-path --path your-prelabel-pictures --conf 0.3 --nms 0.65 --tsize 640 --device gpu
+python tools/demo_online_2xml.py image -f exps/example/custom/your-train-py.-file -c your-weight-path --path your-prelabel-pictures --conf 0.3 --nms 0.65 --tsize 640 --device gpu
 
 notice:
 
