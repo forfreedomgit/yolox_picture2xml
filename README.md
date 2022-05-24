@@ -1,6 +1,6 @@
 this is a pre-label program based on yolox backbone!
 
-someting detail in https://github.com/Megvii-BaseDetection/YOLOX
+yolox details in https://github.com/Megvii-BaseDetection/YOLOX
 
 VOC datasets used in this program 
 
