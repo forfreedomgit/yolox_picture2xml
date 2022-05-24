@@ -1,0 +1,9 @@
+torch
+opencv_python
+loguru
+Pillow
+thop
+ninja
+tabulate
+tensorboard
+
